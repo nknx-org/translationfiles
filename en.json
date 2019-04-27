@@ -5,7 +5,7 @@
   "rewardedAddress": "Rewarded Address",
   "nknDescription": "NKN is a New Kind of Network, a Cellular Automata powered, decentralized data relay network built on Blockchain & incentivized by a native token.",
   "copyright": "Copyright",
-  "allRightsReserved": "All Rights Reserve",
+  "allRightsReserved": "All Rights Reserved",
   "donateAddress": "Donate",
   "latest": "Latest",
   "viewAll": "View All",
@@ -97,5 +97,12 @@
   "avgTxBlock": "Average Tx per Block",
   "prev": "Previous",
   "next": "Next",
-  "type": "Type"
+  "type": "Type",
+  "company": "Company",
+  "about": "About",
+  "officialWebsite": "Official Website",
+  "community": "Community",
+  "nknxNodeManager": "NKNx Node Manager",
+  "nknWallet": "NKN Wallet",
+  "home": "Home"
 }
