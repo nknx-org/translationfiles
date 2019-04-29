@@ -1,5 +1,5 @@
 {
-  "transactions": "Islem",
+  "transactions": "Islemler",
   "latestTransaction": "En son islemler",
   "bytes": "Bayt",
   "rewardedAddress": "Ödüllendirilen Adres",
@@ -8,7 +8,7 @@
   "allRightsReserved": "Tüm haklari Saklidir",
   "donateAddress": "Bagislamak",
   "latest": "En son",
-  "viewAll": "Hepsini gör",
+  "viewAll": "Hepsini göster",
   "block": "Blok",
   "hash": "Hash kodu",
   "search": "Yükseklik / Tx Hash kodu / Adres",
@@ -106,5 +106,5 @@
   "home": "Ana sayfa",
   "marketCap": "Piyasa değeri",
   "volume": "Hacim",
-  "circulatingSupply": "Dolaşımdaki arz"
+  "circulatingSupply": "Dolaşımda"
 }
