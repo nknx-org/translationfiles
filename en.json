@@ -56,7 +56,7 @@
   "signer": "Signer",
   "transactionRoot": "Transaction Root",
   "miner": "Miner",
-  "from": "from",
+  "from": "From",
   "amount": "Amount",
   "dataSize": "Data Size",
   "dataHash": "Data Hash",
