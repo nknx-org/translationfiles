@@ -8,6 +8,7 @@
   "allRightsReserved": "Đã đăng ký bản quyền",
   "donateAddress": "Quyên góp",
   "latest": "Mới nhất",
+  "latest_f": "Mới nhất",
   "viewAll": "Xem tất cả",
   "block": "Block",
   "hash": "Hash",
@@ -106,5 +107,6 @@
   "home": "Trang chủ",
   "marketCap": "Vốn hóa thị trường",
   "volume": "Khối lượng giao dịch",
-  "circulatingSupply": "Tổng lưu thông"
+  "circulatingSupply": "Tổng lưu thông",
+  "or": "hoặc"
 }

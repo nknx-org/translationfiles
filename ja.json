@@ -8,6 +8,7 @@
     "allRightsReserved": "All Rights Reserved",
     "donateAddress": "寄付",
     "latest": "最新",
+    "latest_f": "最新",
     "viewAll": "全て見る",
     "block": "ブロック",
     "hash": "ハッシュ",
@@ -106,5 +107,6 @@
     "home": "ホーム",
     "marketCap": "時価総額",
     "volume": "ボリューム",
-    "circulatingSupply": "供給量"
+    "circulatingSupply": "供給量",
+    "or": "若しくは"
 }

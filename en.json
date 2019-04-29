@@ -8,6 +8,7 @@
   "allRightsReserved": "All Rights Reserved",
   "donateAddress": "Donate",
   "latest": "Latest",
+  "latest_f": "Latest",
   "viewAll": "View All",
   "block": "Block",
   "hash": "Hash",
@@ -106,5 +107,6 @@
   "home": "Home",
   "marketCap": "Market Cap",
   "volume": "Volume",
-  "circulatingSupply": "Circulating Supply"
+  "circulatingSupply": "Circulating Supply",
+  "or": "or"
 }

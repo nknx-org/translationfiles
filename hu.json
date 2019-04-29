@@ -8,6 +8,7 @@
     "allRightsReserved": "Minden jog fenntartva",
     "donateAddress": "Adományozz",
     "latest": "Legutolsó",
+    "latest_f": "Legutolsó",
     "viewAll": "Mutasd mind",
     "block": "Blokk",
     "hash": "Hash",
@@ -106,5 +107,6 @@
     "home": "Főoldal",
     "marketCap": "Piaci kapitalizáció",
     "volume": "Volumen",
-    "circulatingSupply": "Forgalomban"
+    "circulatingSupply": "Forgalomban",
+    "or": "vagy"
 }

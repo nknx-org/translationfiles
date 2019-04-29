@@ -8,6 +8,7 @@
   "allRightsReserved": "Tüm haklari Saklidir",
   "donateAddress": "Bagislamak",
   "latest": "En son",
+  "latest_f": "En son",
   "viewAll": "Hepsini göster",
   "block": "Blok",
   "hash": "Hash kodu",
@@ -106,5 +107,6 @@
   "home": "Ana sayfa",
   "marketCap": "Piyasa değeri",
   "volume": "Hacim",
-  "circulatingSupply": "Dolaşımda"
+  "circulatingSupply": "Dolaşımda",
+  "or": "veya"
 }

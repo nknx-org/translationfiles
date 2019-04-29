@@ -8,6 +8,7 @@
     "allRightsReserved": "Alle Rechten Voorbehouden",
     "donateAddress": "Doneer",
     "latest": "Laatste",
+    "latest_w": "Laatste",
     "viewAll": "Alles Weergeven",
     "block": "Blok",
     "hash": "Hash",
@@ -106,5 +107,6 @@
     "home": "Home",
     "marketCap": "Marktkapitalisatie",
     "volume": "Volume",
-    "circulatingSupply": "In omloop"
+    "circulatingSupply": "In omloop",
+    "or": "of"
 }
