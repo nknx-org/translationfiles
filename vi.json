@@ -80,7 +80,7 @@
   "created": "Đã được tạo",
   "avgSize": "Kích thước trung bình",
   "explorer": "Explorer",
-  "searchFor": "Tìm kiếm",
+  "searchFor": "Tìm kiếm {0}, {1} hoặc {2}",
   "transaction": "Giao dịch",
   "address": "Địa chỉ",
   "singleSearch": "Tìm kiếm",
@@ -108,6 +108,5 @@
   "home": "Trang chủ",
   "marketCap": "Vốn hóa thị trường",
   "volume": "Khối lượng giao dịch",
-  "circulatingSupply": "Tổng lưu thông",
-  "or": "hoặc"
+  "circulatingSupply": "Tổng lưu thông"
 }

@@ -80,7 +80,7 @@
     "created": "Aangemaakt",
     "avgSize": "Gemiddelde Grootte",
     "explorer": "Verkenner",
-    "searchFor": "Zoeken naar",
+    "searchFor": "Zoeken naar {0}, {1} of {2}",
     "transaction": "Transactie",
     "address": "Adres",
     "singleSearch": "Zoeken",
@@ -108,6 +108,5 @@
     "home": "Home",
     "marketCap": "Marktkapitalisatie",
     "volume": "Volume",
-    "circulatingSupply": "In omloop",
-    "or": "of"
+    "circulatingSupply": "In omloop"
 }

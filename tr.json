@@ -80,7 +80,7 @@
   "created": "Düzenlendi",
   "avgSize": "Ortalama boyut",
   "explorer": "Explorer",
-  "searchFor": "Buna göre ara",
+  "searchFor": "{0}, {1} veya {2} göre ara",
   "transaction": "Işlem",
   "address": "Adres",
   "singleSearch": "Arama",

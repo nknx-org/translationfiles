@@ -80,7 +80,7 @@
   "created": "Created",
   "avgSize": "Average Size",
   "explorer": "Explorer",
-  "searchFor": "Search for",
+  "searchFor": "Search for {0}, {1} or {2}",
   "transaction": "Transaction",
   "address": "Address",
   "singleSearch": "Search",
@@ -108,6 +108,5 @@
   "home": "Home",
   "marketCap": "Market Cap",
   "volume": "Volume",
-  "circulatingSupply": "Circulating Supply",
-  "or": "or"
+  "circulatingSupply": "Circulating Supply"
 }

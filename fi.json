@@ -80,7 +80,7 @@
     "created": "Luotu",
     "avgSize": "Koko keskimäärin",
     "explorer": "Selain",
-    "searchFor": "Etsi:",
+    "searchFor": "Etsi: {0}, {1} tai {2}",
     "transaction": "Tilitapahtuma",
     "address": "Osoite",
     "singleSearch": "Hae",
@@ -108,6 +108,5 @@
     "home": "Koti",
     "marketCap": "Markkinaosuus",
     "volume": "Vaihto",
-    "circulatingSupply": "Valuuttaa saatavilla",
-    "or": "tai"
+    "circulatingSupply": "Valuuttaa saatavilla"
 }

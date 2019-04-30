@@ -3,7 +3,7 @@
   "latestTransaction": "最近交易",
   "bytes": "字节",
   "rewardedAddress": "奖励地址",
-  "nknDescription": "NKN是区块链技术驱动的一种开放、去中心化的新型网络传输和连接平台。"
+  "nknDescription": "NKN是区块链技术驱动的一种开放、去中心化的新型网络传输和连接平台。",
   "copyright": "版权",
   "allRightsReserved": "版权所有",
   "donateAddress": "捐赠地址",
@@ -80,7 +80,7 @@
   "created": "创建的",
   "avgSize": "平均大小",
   "explorer": "浏览器",
-  "searchFor": "搜索",
+  "searchFor": "搜索 {0}, {1} 或 {2}",
   "transaction": "交易",
   "address": "地址",
   "singleSearch": "搜索",
@@ -108,6 +108,5 @@
   "home": "主页",
   "marketCap": "市值",
   "volume": "交易量",
-  "circulatingSupply": "流通量",
-  "or": "或"
+  "circulatingSupply": "流通量"
 }

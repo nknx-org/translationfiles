@@ -80,7 +80,7 @@
     "created": "作成",
     "avgSize": "平均サイズ",
     "explorer": "エクスプローラー",
-    "searchFor": "～を検索",
+    "searchFor": "～を検索 {0}, {1} または {2}",
     "transaction": "トランザクション",
     "address": "アドレス",
     "singleSearch": "検索",
@@ -108,6 +108,5 @@
     "home": "ホーム",
     "marketCap": "時価総額",
     "volume": "ボリューム",
-    "circulatingSupply": "供給量",
-    "or": "または"
+    "circulatingSupply": "供給量"
 }

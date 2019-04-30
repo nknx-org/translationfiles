@@ -80,7 +80,7 @@
   "created": "Creado",
   "avgSize": "Tamaño Medio",
   "explorer": "Explorador",
-  "searchFor": "Buscar por",
+  "searchFor": "Buscar por {0}, {1} o {2}",
   "transaction": "Transacción",
   "address": "Dirección",
   "singleSearch": "Buscar",
@@ -108,6 +108,5 @@
   "home": "Inicio",
   "marketCap": "Capitalización de Mercado",
   "volume": "Volumen",
-  "circulatingSupply": "Suministro en Circulación",
-  "or": "o"
+  "circulatingSupply": "Suministro en Circulación"
 }

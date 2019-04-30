@@ -44,12 +44,12 @@
     "recievedData": "Fogadott adat",
     "loading": "Betöltés",
     "balance": "Egyenleg",
-    "firstTransactions": "Első tranzakció",
+    "firstTransaction": "Első tranzakció",
     "never": "Nincs",
     "totalTransactions": "Összes tranzakció",
     "showing": "Megjelenítve",
-    "to": "To",
-    "to_send": "To",
+    "to": "tól",
+    "to_send": "Fogadó",
     "of": "összesen",
     "height": "Magasság",
     "size": "Méret",
@@ -80,7 +80,7 @@
     "created": "Létrehozva",
     "avgSize": "Átlagos méret",
     "explorer": "Felfedező",
-    "searchFor": "Keress",
+    "searchFor": "Keress {0}, {1} vagy {2}",
     "transaction": "Tranzakciót",
     "address": "Címet",
     "singleSearch": "Keresés",
@@ -108,6 +108,5 @@
     "home": "Főoldal",
     "marketCap": "Piaci kapitalizáció",
     "volume": "Volumen",
-    "circulatingSupply": "Forgalomban",
-    "or": "vagy"
+    "circulatingSupply": "Forgalomban"
 }

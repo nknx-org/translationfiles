@@ -80,7 +80,7 @@
     "created": "Crée",
     "avgSize": "Taille moyenne",
     "explorer": "Explorer",
-    "searchFor": "Rechercher par",
+    "searchFor": "Rechercher par {0}, {1} ou {2}",
     "transaction": "Transaction",
     "address": "Adresses",
     "singleSearch": "Rechercher",
@@ -108,6 +108,5 @@
     "home": "Accueil",
     "marketCap": "Cap. Marché",
     "volume": "Volume",
-    "circulatingSupply": "Offre en Circulation",
-    "or": "ou"
+    "circulatingSupply": "Offre en Circulation"
 }
