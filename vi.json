@@ -108,5 +108,11 @@
   "home": "Trang chủ",
   "marketCap": "Vốn hóa thị trường",
   "volume": "Khối lượng giao dịch",
-  "circulatingSupply": "Tổng lưu thông"
+  "circulatingSupply": "Tổng lưu thông",
+  "subscriber": "Subscriber",
+  "identifier": "Identifier",
+  "topic": "Topic",
+  "bucket": "Bucket",
+  "duration": "Duration",
+  "meta": "Meta"
 }

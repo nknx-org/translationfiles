@@ -108,5 +108,11 @@
   "home": "Home",
   "marketCap": "Market Cap",
   "volume": "Volume",
-  "circulatingSupply": "Circulating Supply"
+  "circulatingSupply": "Circulating Supply",
+  "subscriber": "Subscriber",
+  "identifier": "Identifier",
+  "topic": "Topic",
+  "bucket": "Bucket",
+  "duration": "Duration",
+  "meta": "Meta"
 }

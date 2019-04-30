@@ -108,5 +108,11 @@
     "home": "Accueil",
     "marketCap": "Cap. Marché",
     "volume": "Volume",
-    "circulatingSupply": "Offre en Circulation"
+    "circulatingSupply": "Offre en Circulation",
+    "subscriber": "Subscriber",
+    "identifier": "Identifier",
+    "topic": "Topic",
+    "bucket": "Bucket",
+    "duration": "Duration",
+    "meta": "Meta"
 }

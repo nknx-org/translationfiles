@@ -109,5 +109,11 @@
   "marketCap": "Piyasa değeri",
   "volume": "Hacim",
   "circulatingSupply": "Dolaşımda",
-  "or": "veya"
+  "or": "veya",
+  "subscriber": "Subscriber",
+  "identifier": "Identifier",
+  "topic": "Topic",
+  "bucket": "Bucket",
+  "duration": "Duration",
+  "meta": "Meta"
 }

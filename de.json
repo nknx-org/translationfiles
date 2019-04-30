@@ -108,5 +108,11 @@
   "home": "Home",
   "marketCap": "Marktkapitalisierung",
   "volume": "Volumen",
-  "circulatingSupply": "Im Umlauf"
+  "circulatingSupply": "Im Umlauf",
+  "subscriber": "Teilnehmer",
+  "identifier": "Kennung",
+  "topic": "Thema",
+  "bucket": "Bucket",
+  "duration": "Dauer",
+  "meta": "Meta"
 }

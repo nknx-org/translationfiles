@@ -108,5 +108,11 @@
     "home": "ホーム",
     "marketCap": "時価総額",
     "volume": "ボリューム",
-    "circulatingSupply": "供給量"
+    "circulatingSupply": "供給量",
+    "subscriber": "Subscriber",
+    "identifier": "Identifier",
+    "topic": "Topic",
+    "bucket": "Bucket",
+    "duration": "Duration",
+    "meta": "Meta"
 }

@@ -108,5 +108,11 @@
     "home": "Domov",
     "marketCap": "Kapitalizácia trhu",
     "volume": "Objem",
-    "circulatingSupply": "V obehu"
+    "circulatingSupply": "V obehu",
+    "subscriber": "Subscriber",
+    "identifier": "Identifier",
+    "topic": "Topic",
+    "bucket": "Bucket",
+    "duration": "Duration",
+    "meta": "Meta"
 }

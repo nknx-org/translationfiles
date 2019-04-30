@@ -108,5 +108,11 @@
     "home": "Koti",
     "marketCap": "Markkinaosuus",
     "volume": "Vaihto",
-    "circulatingSupply": "Valuuttaa saatavilla"
+    "circulatingSupply": "Valuuttaa saatavilla",
+    "subscriber": "Subscriber",
+    "identifier": "Identifier",
+    "topic": "Topic",
+    "bucket": "Bucket",
+    "duration": "Duration",
+    "meta": "Meta"
 }

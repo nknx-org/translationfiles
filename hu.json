@@ -108,5 +108,11 @@
     "home": "Főoldal",
     "marketCap": "Piaci kapitalizáció",
     "volume": "Volumen",
-    "circulatingSupply": "Forgalomban"
+    "circulatingSupply": "Forgalomban",
+    "subscriber": "Subscriber",
+    "identifier": "Identifier",
+    "topic": "Topic",
+    "bucket": "Bucket",
+    "duration": "Duration",
+    "meta": "Meta"
 }

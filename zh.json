@@ -108,5 +108,11 @@
   "home": "主页",
   "marketCap": "市值",
   "volume": "交易量",
-  "circulatingSupply": "流通量"
+  "circulatingSupply": "流通量",
+  "subscriber": "Subscriber",
+  "identifier": "Identifier",
+  "topic": "Topic",
+  "bucket": "Bucket",
+  "duration": "Duration",
+  "meta": "Meta"
 }

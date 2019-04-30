@@ -108,5 +108,11 @@
     "home": "Home",
     "marketCap": "Marktkapitalisatie",
     "volume": "Volume",
-    "circulatingSupply": "In omloop"
+    "circulatingSupply": "In omloop",
+    "subscriber": "Subscriber",
+    "identifier": "Identifier",
+    "topic": "Topic",
+    "bucket": "Bucket",
+    "duration": "Duration",
+    "meta": "Meta"
 }

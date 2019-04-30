@@ -108,5 +108,11 @@
   "home": "Inicio",
   "marketCap": "Capitalización de Mercado",
   "volume": "Volumen",
-  "circulatingSupply": "Suministro en Circulación"
+  "circulatingSupply": "Suministro en Circulación",
+  "subscriber": "Subscriber",
+  "identifier": "Identifier",
+  "topic": "Topic",
+  "bucket": "Bucket",
+  "duration": "Duration",
+  "meta": "Meta"
 }
