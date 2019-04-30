@@ -80,7 +80,7 @@
   "created": "Erstellt",
   "avgSize": "Durchschnittliche Größe",
   "explorer": "Explorer",
-  "searchFor": "Suche nach",
+  "searchFor": "Suche nach {0}, {1} oder {2}",
   "transaction": "Transaktion",
   "address": "Adresse",
   "singleSearch": "Suchen",
