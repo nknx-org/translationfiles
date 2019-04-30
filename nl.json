@@ -109,10 +109,10 @@
     "marketCap": "Marktkapitalisatie",
     "volume": "Volume",
     "circulatingSupply": "In omloop",
-    "subscriber": "Subscriber",
-    "identifier": "Identifier",
-    "topic": "Topic",
-    "bucket": "Bucket",
-    "duration": "Duration",
+    "subscriber": "Abonnee",
+    "identifier": "ID",
+    "topic": "Onderwerp",
+    "bucket": "Groep",
+    "duration": "Looptijd",
     "meta": "Meta"
 }
