@@ -109,10 +109,10 @@
     "marketCap": "時価総額",
     "volume": "ボリューム",
     "circulatingSupply": "供給量",
-    "subscriber": "Subscriber",
-    "identifier": "Identifier",
-    "topic": "Topic",
-    "bucket": "Bucket",
-    "duration": "Duration",
-    "meta": "Meta"
+    "subscriber": "購読者",
+    "identifier": "識別子",
+    "topic": "トピック",
+    "bucket": "バケット",
+    "duration": "継続期間",
+    "meta": "メタ"
 }
