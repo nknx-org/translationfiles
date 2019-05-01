@@ -109,10 +109,10 @@
   "marketCap": "Piyasa değeri",
   "volume": "Hacim",
   "circulatingSupply": "Dolaşımda",
-  "subscriber": "Subscriber",
-  "identifier": "Identifier",
-  "topic": "Topic",
-  "bucket": "Bucket",
-  "duration": "Duration",
+  "subscriber": "Abone",
+  "identifier": "Tanıtıcı",
+  "topic": "Mevzu",
+  "bucket": "Kova",
+  "duration": "Süre",
   "meta": "Meta"
 }
