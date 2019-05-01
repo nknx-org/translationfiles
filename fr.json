@@ -28,7 +28,7 @@
     "consensusNodes": "Consensus des noeuds",
     "countries": "Pays",
     "provider": "Fournisseur",
-    "network": "Réseau",
+    "networkNodes": "Réseau Noeuds",
     "blocks": "Blocs",
     "relayedData": "Données relayées",
     "overview": "Vue d'ensemble",

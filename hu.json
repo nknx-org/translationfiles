@@ -28,7 +28,7 @@
     "consensusNodes": "Konszenzus nodeok",
     "countries": "Országok",
     "provider": "Szolgáltató",
-    "network": "Hálózat",
+    "networkNodes": "Hálózat Nodeok",
     "blocks": "Blokkok",
     "relayedData": "Továbbított adat",
     "overview": "Áttekintés",

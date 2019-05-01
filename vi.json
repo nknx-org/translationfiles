@@ -28,7 +28,7 @@
   "consensusNodes": "Các node đồng thuận",
   "countries": "Các quốc gia",
   "provider": "Nhà cung cấp",
-  "network": "Mạng",
+  "networkNodes": "Mạng Các node",
   "blocks": "Các block",
   "relayedData": "Dữ liệu được chuyển tiếp",
   "overview": "Tổng quan",
