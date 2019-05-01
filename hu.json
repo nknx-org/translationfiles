@@ -80,7 +80,7 @@
     "created": "Létrehozva",
     "avgSize": "Átlagos méret",
     "explorer": "Felfedező",
-    "searchFor": "Keress {Blokkot}, {Tranzakciót} vagy {Címet}",
+    "searchFor": "Keress {0}, {1} vagy {2}",
     "transaction": "Tranzakció",
     "address": "Cím",
     "singleSearch": "Keresés",
