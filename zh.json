@@ -28,7 +28,7 @@
   "consensusNodes": "共识节点",
   "countries": "国家",
   "provider": "提供商",
-  "network": "网络",
+  "networkNodes": "网络 节点",
   "blocks": "区块",
   "relayedData": "转发数据",
   "overview": "概览",

@@ -28,7 +28,7 @@
   "consensusNodes": "Nodos en Consenso",
   "countries": "Países",
   "provider": "Proveedor",
-  "network": "Red",
+  "networkNodes": "Red Nodos",
   "blocks": "Bloques",
   "relayedData": "Datos Transmitidos",
   "overview": "Vista General",

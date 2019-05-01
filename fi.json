@@ -28,7 +28,7 @@
     "consensusNodes": "Konsensus-solmut",
     "countries": "Maat",
     "provider": "Tarjoajat",
-    "network": "Verkon",
+    "networkNodes": "Verkon Solmut",
     "blocks": "Lohkot",
     "relayedData": "Välitetty data",
     "overview": "Yleiskatsaus",

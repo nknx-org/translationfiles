@@ -28,7 +28,7 @@
   "consensusNodes": "Consensus Nodes",
   "countries": "Countries",
   "provider": "Provider",
-  "network": "Network",
+  "networkNodes": "Network Nodes",
   "blocks": "Blocks",
   "relayedData": "Relayed Data",
   "overview": "Overview",
