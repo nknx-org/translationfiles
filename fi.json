@@ -1,7 +1,7 @@
 {
     "transactions": "Tapahtumat",
     "latestTransaction": "Viimeisim tapahtuma",
-    "latestTransaction": "Viimeisimmät tapahtumat",
+    "latestTransactions": "Viimeisimmät tapahtumat",
     "latestBlocks": "Viimeisimmät lohkot",
     "bytes": "tavua",
     "rewardedAddress": "Vastaanottava osoite",
