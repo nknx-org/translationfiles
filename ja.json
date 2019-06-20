@@ -114,5 +114,8 @@
     "topic": "トピック",
     "bucket": "バケット",
     "duration": "継続期間",
-    "meta": "メタ"
+    "meta": "メタ",
+    "publicKey": "Public Key",
+    "registrationFee": "Registration Fee",
+    "generateId": "ID Generation"
 }

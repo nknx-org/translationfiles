@@ -114,5 +114,8 @@
     "topic": "Onderwerp",
     "bucket": "Groep",
     "duration": "Looptijd",
-    "meta": "Meta"
+    "meta": "Meta",
+    "publicKey": "Public Key",
+    "registrationFee": "Registration Fee",
+    "generateId": "ID Generation"
 }

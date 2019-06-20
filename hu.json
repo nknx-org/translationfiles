@@ -114,5 +114,8 @@
     "topic": "Téma",
     "bucket": "Kosár",
     "duration": "Időtartam",
-    "meta": "Meta"
+    "meta": "Meta",
+    "publicKey": "Public Key",
+    "registrationFee": "Registration Fee",
+    "generateId": "ID Generation"
 }

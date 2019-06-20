@@ -114,5 +114,8 @@
   "topic": "Thema",
   "bucket": "Bucket",
   "duration": "Dauer",
-  "meta": "Meta"
+  "meta": "Meta",
+  "publicKey": "Öffentlicher Schlüssel",
+  "registrationFee": "Registrationsgebühr",
+  "generateId": "ID Erstellung"
 }

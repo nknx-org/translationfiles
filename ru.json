@@ -114,5 +114,8 @@
   "topic": "Тема",
   "bucket": "Bucket",
   "duration": "Продолжительность",
-  "meta": "Мета-информация"
+  "meta": "Мета-информация",
+  "publicKey": "Public Key",
+  "registrationFee": "Registration Fee",
+  "generateId": "ID Generation"
 }

@@ -114,5 +114,8 @@
   "topic": "Mevzu",
   "bucket": "Kova",
   "duration": "Süre",
-  "meta": "Meta"
+  "meta": "Meta",
+  "publicKey": "Public Key",
+  "registrationFee": "Registration Fee",
+  "generateId": "ID Generation"
 }
