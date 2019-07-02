@@ -126,6 +126,6 @@
   "online": "Online",
   "syncing": "Syncing",
   "mining": "Mining",
-  "node_check_desc": "Du kannst deine Node sehr einfach testen: Gebe einfach deine Node IP oder den Domainnamen in das untere Feld ein und klicke auf \"Teste meine Node!\".<br /><br />Du bekommst alle nötigen Informationen sofort auf der rechten Seite.",
+  "node_check_desc": "Du kannst deine Node sehr einfach testen: Gebe einfach deine Node IP oder den Domainnamen in das untere Feld ein und klicke auf \"Teste meine Node!\".<br /><br />Du bekommst alle nötigen Informationen sofort im daraufhin erscheinenden Codefenster.",
   "how_work": "Wie funktioniert es?"
 }
