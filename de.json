@@ -118,14 +118,14 @@
   "publicKey": "Öffentlicher Schlüssel",
   "registrationFee": "Registrationsgebühr",
   "generateId": "ID Erstellung",
-  "node_check": "Node Check",
-  "check_my_node": "Check my node",
-  "your_node_status": "Your Node status",
-  "input_ip": "Put in your IP first",
+  "node_check": "Node Test",
+  "check_my_node": "Teste meine Node",
+  "your_node_status": "Status deiner Node",
+  "input_ip": "Gebe zuerst deine IP ein",
   "offline": "Offline",
   "online": "Online",
   "syncing": "Syncing",
   "mining": "Mining",
-  "node_check_desc": "Checking your node is pretty easy: just put your node-ip into the corresponding input fields and click on \"check my node!\".<br /><br />You will see the results instantly on the right side.",
-  "how_work": "How does it work?"
+  "node_check_desc": "Du kannst deine Node sehr einfach testen: Gebe einfach deine Node IP oder den Domainnamen in das untere Feld ein und klicke auf \"Teste meine Node!\".<br /><br />Du bekommst alle nötigen Informationen sofort auf der rechten Seite.",
+  "how_work": "Wie funktioniert es?"
 }
