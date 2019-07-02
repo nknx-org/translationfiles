@@ -126,6 +126,7 @@
     "online": "Online",
     "syncing": "Syncing",
     "mining": "Mining",
-    "node_check_desc": "Checking your node is pretty easy: just put your node IP or domain name into the corresponding input fields and click on \"check my node!\".<br /><br />You will see the results instantly on the appearing code area.",
+    "node_check_desc": "Checking your node is pretty easy: just put your node IP or domain name into the corresponding input fields and click on \"check my node!\".",
+    "node_results_desc": "You will see the results instantly on the appearing code area.",
     "how_work": "How does it work?"
 }
