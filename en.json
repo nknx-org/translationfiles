@@ -191,7 +191,7 @@
   "networkStatus": "Network Status",
   "latestReleases": "Latest Releases",
   "networkRelease": "Network Release",
-  "viewDetails": "view Details",
+  "viewDetails": "View Details",
   "totalNodes": "Total Nodes",
   "n/a": "n/a",
   "allNodesAreMining": "All Nodes are mining!",
@@ -251,7 +251,7 @@
   "minedTotal": "Mined Total",
   "minedAverage": "Mined Average",
   "nodeProviders": "Node Providers",
-  "price": "Prive",
+  "price": "Price",
   "change24h": "Change 24 Hours",
   "marketcap": "Marketcap",
   "dailyVolume": "Daily Volume"
