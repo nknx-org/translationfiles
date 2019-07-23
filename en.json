@@ -233,7 +233,7 @@
   "duplicateNewNodeAlert": "Node is already monitored by your account.",
   "successNewNodeAlert": "New Node was successfully added to your account!",
   "failedNewNodeAlert": "Failed adding Node to your account.",
-  "successSnippetAlert": "New Snippet successfully created!",
+  "successSnippetAlert": "New Snippet successfully created! Check the 'My Deployments'-tab to view it and create as many nodes as you want.",
   "failedSnippetAlert": "Failed creating Snippet.",
   "successNodeDeleteAlert": "Node was successfully deleted.",
   "failedNodeDeleteAlert": "Error deleting Node",
