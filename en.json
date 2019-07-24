@@ -152,7 +152,7 @@
   "welcomeToFastDeploy": "Welcome to NKNx Fast Deploy",
   "createSnippet": "Create a snippet",
   "myDeployments": "My Deployments",
-  "createSnippetDescription": "With NKNx Fast Deploy you're able to create a NKN node in a breeze! Just create a Fast Deploy snippet, paste it in any linux-based terminal and the node starts to install. Make sure you're running the script with any user that has sude-permissions (root is fine, too). After finish the node will automatically get added to your account after about 5 minutes.",
+  "createSnippetDescription": "With NKNx Fast Deploy you're able to create a NKN node in a breeze! Just create a Fast Deploy snippet, paste it in any linux-based terminal and the node starts to install. Make sure you're running the script with any user that has sudo-permissions (root is fine, too). After finish the node will automatically get added to your account after about 5 minutes.",
   "beneficiaryAddr": "Address to receive rewards (beneficiaryAddr)",
   "systemArchitecture": "System Architecture",
   "AMD64": "AMD-based machines (nearly all VPS)",
