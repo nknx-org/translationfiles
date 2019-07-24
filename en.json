@@ -254,5 +254,8 @@
   "price": "Price",
   "change24h": "Change 24 Hours",
   "marketcap": "Marketcap",
-  "dailyVolume": "Daily Volume"
+  "dailyVolume": "Daily Volume",
+  "deploymentOptions": "Deployment Options",
+  "downloadChain": "Download pre-packed chain for faster syncing?",
+  "downloadChainTable": "Chain?"
 }
