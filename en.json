@@ -259,6 +259,6 @@
   "downloadChainTable": "Chain?",
   "blocksMined": "# Mined",
   "addNodesLoading": "Please wait... we're adding your nodes to our system...",
-  "editNode": "Edit label",
+  "editNode": "Edit",
   "successNodeEditAlert": "Node label changed successfully!"
 }
