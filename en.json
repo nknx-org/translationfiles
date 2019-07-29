@@ -258,5 +258,7 @@
   "downloadChain": "Download pre-packed chain for faster syncing?",
   "downloadChainTable": "Chain?",
   "blocksMined": "# Mined",
-  "addNodesLoading": "Please wait... we're adding your nodes to our system..."
+  "addNodesLoading": "Please wait... we're adding your nodes to our system...",
+  "editNode": "Edit label",
+  "successNodeEditAlert": "Node label changed successfully!"
 }
