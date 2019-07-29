@@ -222,7 +222,7 @@
   "name": "Name",
   "latestBlock": "Latest Block",
   "currentVersion": "Version",
-  "relayedMessages": "Relayed Messages",
+  "relayedMessages": "# Relayed",
   "miningHistory": "Mining History",
   "actions": "Actions",
   "allowedOnly10Wallets": "Only 10 Wallets allowed at a time!",
