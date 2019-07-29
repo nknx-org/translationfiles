@@ -221,7 +221,7 @@
   "failedWalletDeleteAlert": "Failed deleting Wallet!",
   "name": "Name",
   "latestBlock": "Latest Block",
-  "currentVersion": "Current Version",
+  "currentVersion": "Version",
   "relayedMessages": "Relayed Messages",
   "miningHistory": "Mining History",
   "actions": "Actions",
@@ -256,5 +256,7 @@
   "dailyVolume": "Daily Volume",
   "deploymentOptions": "Deployment Options",
   "downloadChain": "Download pre-packed chain for faster syncing?",
-  "downloadChainTable": "Chain?"
+  "downloadChainTable": "Chain?",
+  "blocksMined": "# Mined",
+  "addNodesLoading": "Please wait... we're adding your nodes to our system..."
 }
