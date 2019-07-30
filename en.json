@@ -260,5 +260,7 @@
   "blocksMined": "# Mined",
   "addNodesLoading": "Please wait... we're adding your nodes to our system...",
   "editNode": "Edit",
-  "successNodeEditAlert": "Node label changed successfully!"
+  "successNodeEditAlert": "Node label changed successfully!",
+  "addNode": "Add Node",
+  "confirm": "Confirm"
 }
