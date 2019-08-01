@@ -262,5 +262,8 @@
   "editNode": "Edit",
   "successNodeEditAlert": "Node label changed successfully!",
   "addNode": "Add Node",
-  "confirm": "Confirm"
+  "confirm": "Confirm",
+  "nkn": "The NKN Network",
+  "nknxEcosystem": "NKNx Ecosystem",
+  "nknxExplorer": "NKNx Official Blockchain Explorer"
 }
