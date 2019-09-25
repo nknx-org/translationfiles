@@ -269,5 +269,5 @@
   "myWallet": "My Wallet",
   "viewMyNodes": "View My Nodes",
   "enableWebUITable": "WebUI?",
-  "enableWebUI": "Enable WebUI (only Ubuntu/Debian)?"
+  "enableWebUI": "Enable WebUI?"
 }
