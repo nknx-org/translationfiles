@@ -269,5 +269,9 @@
   "myWallet": "My Wallet",
   "viewMyNodes": "View My Nodes",
   "enableWebUITable": "WebUI?",
-  "enableWebUI": "Enable WebUI?"
+  "enableWebUI": "Enable WebUI?",
+  "networkStats": "Network Statistics",
+  "nodeCount": "Node Count",
+  "walletDetails": "Wallet Details",
+  "more": "More"
 }
