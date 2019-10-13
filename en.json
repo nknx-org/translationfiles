@@ -273,5 +273,7 @@
   "networkStats": "Network Statistics",
   "nodeCount": "Node Count",
   "walletDetails": "Wallet Details",
-  "more": "More"
+  "more": "More",
+  "disableUFWTable": "No UFW?",
+  "disableUFW": "Disable UFW?"
 }
