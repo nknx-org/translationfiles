@@ -275,5 +275,6 @@
   "walletDetails": "Wallet Details",
   "more": "More",
   "disableUFWTable": "No UFW?",
-  "disableUFW": "Disable UFW?"
+  "disableUFW": "Disable UFW?",
+  "nknxVault": "NKNx Vault - the NKN Desktop wallet"
 }
