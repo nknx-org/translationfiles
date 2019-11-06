@@ -128,5 +128,8 @@
     "mining": "Louhii",
     "node_check_desc": "Solmun tilan tarkistus on helppoa: syötä IP-osoite tai domain-nimi omiin kenttiinsä ja klikkaa \"Tarkista solmuni!\".",
     "node_results_desc": "Näet tulokset välittömästi koodikentässä",
-    "how_work": "Kuinka se toimii?"
+    "how_work": "Kuinka se toimii?",
+    "nknxVault": "NKNx Vault - the NKN Desktop wallet",
+    "generatingId" : "Luodaan henkilöllisyystodistusta",
+    "donate" : "Lahjoittaa"
 }

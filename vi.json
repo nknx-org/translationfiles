@@ -128,5 +128,8 @@
   "mining": "Mining",
   "node_check_desc": "Checking your node is pretty easy: just put your node IP or domain name into the corresponding input fields and click on \"check my node!\".",
   "node_results_desc": "You will see the results instantly on the appearing code area.",
-  "how_work": "How does it work?"
+  "how_work": "How does it work?",
+  "nknxVault": "NKNx Vault - the NKN Desktop wallet",
+  "generatingId" : "Tạo ID",
+  "donate" : "Quyên góp"
 }

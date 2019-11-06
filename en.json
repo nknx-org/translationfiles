@@ -276,5 +276,7 @@
   "more": "More",
   "disableUFWTable": "No UFW?",
   "disableUFW": "Disable UFW?",
-  "nknxVault": "NKNx Vault - the NKN Desktop wallet"
+  "nknxVault": "NKNx Vault - the NKN Desktop wallet",
+  "generatingId" : "Generating ID",
+  "donate" : "Donate"
 }

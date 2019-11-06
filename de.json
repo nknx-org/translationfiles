@@ -128,5 +128,8 @@
   "mining": "Mining",
   "node_check_desc": "Du kannst deine Node sehr einfach testen: Gebe einfach deine Node IP oder den Domainnamen in das untere Feld ein und klicke auf \"Teste meine Node!\".",
   "node_results_desc": "Du bekommst alle nötigen Informationen sofort im daraufhin erscheinenden Codefenster.",
-  "how_work": "Wie funktioniert es?"
+  "how_work": "Wie funktioniert es?",
+  "nknxVault": "NKNx Vault - the NKN Desktop wallet",
+  "generatingId" : "Erstelle ID",
+  "donate" : "Spenden"
 }
