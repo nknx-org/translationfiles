@@ -304,5 +304,7 @@
   "walletNameTooltip":"Enter the digits you want to have in your wallet.",
   "walletPasswordTooltip" : "Enter a password for your wallet file.",
   "addrPerSec" : "Addr/sec",
-  "clickToReveal" : "Click to reveal"
+  "clickToReveal" : "Click to reveal",
+  "threadsRecommendedTooltip": "Recommended number of threads",
+  "threadsWarningTooltip": "Number of threads exceeds the number you have available on this PC"
 }
