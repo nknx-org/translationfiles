@@ -306,5 +306,6 @@
   "addrPerSec" : "Addr/sec",
   "clickToReveal" : "Click to reveal",
   "threadsRecommendedTooltip": "Recommended number of threads",
-  "threadsWarningTooltip": "Number of threads exceeds the number you have available on this PC"
+  "threadsWarningTooltip": "Number of threads exceeds the number you have available on this PC",
+  "genErrorDescr" : "The wallet format doesn't meet the NKN specification."
 }
