@@ -200,7 +200,7 @@
   "monitoredNodes": "Monitored Nodes",
   "inNetwork": "in Network",
   "reward24": "Mined last 24h",
-  "totalMined": "Total Mined",
+  "totalMined": "Total Mined last 3 months",
   "totalProfit": "Total Profit",
   "profitToday": "Profit Today",
   "addNewWallet": "Add a new Wallet",
