@@ -300,7 +300,6 @@
   "probability": "Probability",
   "privateKey": "Private key",
   "downloadWallet": "Download wallet",
-  "nknxVanity": "NKNxVanity - the NKN vanitizing tool",
   "walletNameTooltip": "Enter the digits you want to have in your wallet.",
   "walletPasswordTooltip": "Enter a password for your wallet file.",
   "addrPerSec": "Addr/sec",
