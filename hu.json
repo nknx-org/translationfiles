@@ -130,6 +130,7 @@
     "node_results_desc": "You will see the results instantly on the appearing code area.",
     "how_work": "How does it work?",
     "nknxVault": "NKNx Vault - the NKN Desktop wallet",
-    "generatingId" : "Azonosító generálása",
-    "donate" : "Adományoz"
+    "generatingId": "Azonosító generálása",
+    "donate": "Adományoz",
+    "nknxVanity": "NKNx Vanity - create your own wallet address"
 }

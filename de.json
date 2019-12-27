@@ -130,6 +130,7 @@
   "node_results_desc": "Du bekommst alle nötigen Informationen sofort im daraufhin erscheinenden Codefenster.",
   "how_work": "Wie funktioniert es?",
   "nknxVault": "NKNx Vault - the NKN Desktop wallet",
-  "generatingId" : "Erstelle ID",
-  "donate" : "Spenden"
+  "generatingId": "Erstelle ID",
+  "donate": "Spenden",
+  "nknxVanity": "NKNx Vanity - create your own wallet address"
 }

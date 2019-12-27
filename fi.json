@@ -130,6 +130,7 @@
     "node_results_desc": "Näet tulokset välittömästi koodikentässä",
     "how_work": "Kuinka se toimii?",
     "nknxVault": "NKNx Vault - the NKN Desktop wallet",
-    "generatingId" : "Luodaan henkilöllisyystodistusta",
-    "donate" : "Lahjoittaa"
+    "generatingId": "Luodaan henkilöllisyystodistusta",
+    "donate": "Lahjoittaa",
+    "nknxVanity": "NKNx Vanity - create your own wallet address"
 }

@@ -130,6 +130,7 @@
   "node_results_desc": "您将在下方区域马上看到查询结果。",
   "how_work": "它是如何工作的?",
   "nknxVault": "NKNx Vault - the NKN Desktop wallet",
-  "generatingId" : "产生ID",
-  "donate" : "捐"
+  "generatingId": "产生ID",
+  "donate": "捐",
+  "nknxVanity": "NKNx Vanity - create your own wallet address"
 }

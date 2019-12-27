@@ -307,5 +307,6 @@
   "clickToReveal": "Click to reveal",
   "threadsRecommendedTooltip": "Recommended number of threads",
   "threadsWarningTooltip": "Number of threads exceeds the number you have available on this PC",
-  "genErrorDescr": "The wallet format doesn't meet the NKN specification."
+  "genErrorDescr": "The wallet format doesn't meet the NKN specification.",
+  "nknxVanity": "NKNx Vanity - create your own wallet address"
 }
