@@ -343,5 +343,12 @@
   "currentPassword": "Current Password",
   "newPassword": "New Password",
   "confirmPassword": "Confirm Password",
-  "copy": "Copy"
+  "copy": "Copy",
+  "ParametersNotProvided": "One or more Parameters not provided.",
+  "IpNotProvided": "IP not provided.",
+  "PasswordDontMatchSecurity": "Given password doesn't match security rules.",
+  "OldPasswordDoesntMatch": "Old password doesn't match your current one.",
+  "ProviderUnknown": "Provider unknown.",
+  "VpsKeyNotFound": "VPS key not found.",
+  "WalletAddressNotProvided": "Wallet address not provided."
 }
