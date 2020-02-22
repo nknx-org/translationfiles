@@ -350,5 +350,18 @@
   "OldPasswordDoesntMatch": "Old password doesn't match your current one.",
   "ProviderUnknown": "Provider unknown.",
   "VpsKeyNotFound": "VPS key not found.",
-  "WalletAddressNotProvided": "Wallet address not provided."
+  "WalletAddressNotProvided": "Wallet address not provided.",
+  "nknxFastDeploy": "NKNx FastDeploy",
+  "newConfiguration": "New Configuration",
+  "label": "Label",
+  "beneficiaryAddress": "Beneficiary Address",
+  "myConfigurations": "My Configurations",
+  "clickToSelect": "Click to select",
+  "deployTo": "Deploy to",
+  "deployNknNodesTo": "Deploy NKN Nodes to",
+  "serverSize": "Server size",
+  "region": "Region",
+  "numberOfNodes": "Number of nodes",
+  "reminder": "Reminder",
+  "fastDeployReminder": "Please be aware that the first node reward of a node deployed through FastDeploy (11.41552511 NKN) will be donated to the NKNx team."
 }
