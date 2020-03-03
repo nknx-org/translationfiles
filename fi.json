@@ -132,5 +132,10 @@
     "nknxVault": "NKNx Vault - the NKN Desktop wallet",
     "generatingId": "Luodaan henkilöllisyystodistusta",
     "donate": "Lahjoittaa",
-    "nknxVanity": "NKNx Vanity - create your own wallet address"
+    "nknxVanity": "NKNx Vanity - create your own wallet address",
+    "nanopay": "Nano pay",
+    "sender": "Lähettäjä",
+    "recipient": "Vastaanottaja",
+    "txnExpiration": "Transaction expiration",
+    "nanoPayExpiration": "Nano pay expiration"
 }

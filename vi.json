@@ -132,5 +132,10 @@
   "nknxVault": "NKNx Vault - the NKN Desktop wallet",
   "generatingId": "Tạo ID",
   "donate": "Quyên góp",
-  "nknxVanity": "NKNx Vanity - create your own wallet address"
+  "nknxVanity": "NKNx Vanity - create your own wallet address",
+  "nanopay": "Nano pay",
+  "sender": "Người gửi",
+  "recipient": "Người nhận",
+  "txnExpiration": "Transaction expiration",
+  "nanoPayExpiration": "Nano pay expiration"
 }

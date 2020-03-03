@@ -132,5 +132,10 @@
     "nknxVault": "NKNx Vault - the NKN Desktop wallet",
     "generatingId": "IDを生成しています",
     "donate": "寄付する",
-    "nknxVanity": "NKNx Vanity - create your own wallet address"
+    "nknxVanity": "NKNx Vanity - create your own wallet address",
+    "nanopay": "Nano pay",
+    "sender": "送信者",
+    "recipient": "受取人",
+    "txnExpiration": "Transaction expiration",
+    "nanoPayExpiration": "Nano pay expiration"
 }

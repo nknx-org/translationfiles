@@ -132,5 +132,10 @@
   "nknxVault": "NKNx Vault - the NKN Desktop wallet",
   "generatingId": "Kimlik oluşturma",
   "donate": "Bağışlamak",
-  "nknxVanity": "NKNx Vanity - create your own wallet address"
+  "nknxVanity": "NKNx Vanity - create your own wallet address",
+  "nanopay": "Nano pay",
+  "sender": "Gönderen",
+  "recipient": "Alıcı",
+  "txnExpiration": "Transaction expiration",
+  "nanoPayExpiration": "Nano pay expiration"
 }

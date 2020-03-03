@@ -132,5 +132,10 @@
     "nknxVault": "NKNx Vault - the NKN Desktop wallet",
     "generatingId": "Generuje sa ID",
     "donate": "darovať",
-    "nknxVanity": "NKNx Vanity - create your own wallet address"
+    "nknxVanity": "NKNx Vanity - create your own wallet address",
+    "nanopay": "Nano pay",
+    "sender": "odosielateľ",
+    "recipient": "príjemcu",
+    "txnExpiration": "Transaction expiration",
+    "nanoPayExpiration": "Nano pay expiration"
 }

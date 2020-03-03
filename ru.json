@@ -132,5 +132,10 @@
   "nknxVault": "NKNx Vault - the NKN Desktop wallet",
   "generatingId": "Генерация ID",
   "donate": "жертвовать",
-  "nknxVanity": "NKNx Vanity - create your own wallet address"
+  "nknxVanity": "NKNx Vanity - create your own wallet address",
+  "nanopay": "Nano pay",
+  "sender": "отправитель",
+  "recipient": "Получатель",
+  "txnExpiration": "Transaction expiration",
+  "nanoPayExpiration": "Nano pay expiration"
 }
