@@ -133,9 +133,9 @@
     "generatingId": "Generuje sa ID",
     "donate": "darovať",
     "nknxVanity": "NKNx Vanity - create your own wallet address",
-    "nanopay": "Nano pay",
+    "nanopay": "Nano Pay",
     "sender": "odosielateľ",
     "recipient": "príjemcu",
     "txnExpiration": "Transaction expiration",
-    "nanoPayExpiration": "Nano pay expiration"
+    "nanoPayExpiration": "Nano Pay expiration"
 }

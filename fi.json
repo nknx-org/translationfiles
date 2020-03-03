@@ -133,9 +133,9 @@
     "generatingId": "Luodaan henkilöllisyystodistusta",
     "donate": "Lahjoittaa",
     "nknxVanity": "NKNx Vanity - create your own wallet address",
-    "nanopay": "Nano pay",
+    "nanopay": "Nano Pay",
     "sender": "Lähettäjä",
     "recipient": "Vastaanottaja",
     "txnExpiration": "Transaction expiration",
-    "nanoPayExpiration": "Nano pay expiration"
+    "nanoPayExpiration": "Nano Pay expiration"
 }

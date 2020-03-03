@@ -133,9 +133,9 @@
     "generatingId": "Azonosító generálása",
     "donate": "Adományoz",
     "nknxVanity": "NKNx Vanity - create your own wallet address",
-    "nanopay": "Nano pay",
+    "nanopay": "Nano Pay",
     "sender": "Feladó",
     "recipient": "Befogadó",
     "txnExpiration": "Transaction expiration",
-    "nanoPayExpiration": "Nano pay expiration"
+    "nanoPayExpiration": "Nano Pay expiration"
 }

@@ -133,9 +133,9 @@
   "generatingId": "Erstelle ID",
   "donate": "Spenden",
   "nknxVanity": "NKNx Vanity - create your own wallet address",
-  "nanopay": "Nano pay",
+  "nanopay": "Nano Pay",
   "sender": "Sender",
   "recipient": "Empfänger",
   "txnExpiration": "Transaction expiration",
-  "nanoPayExpiration": "Nano pay expiration"
+  "nanoPayExpiration": "Nano Pay expiration"
 }

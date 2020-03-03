@@ -133,9 +133,9 @@
   "generatingId": "Tạo ID",
   "donate": "Quyên góp",
   "nknxVanity": "NKNx Vanity - create your own wallet address",
-  "nanopay": "Nano pay",
+  "nanopay": "Nano Pay",
   "sender": "Người gửi",
   "recipient": "Người nhận",
   "txnExpiration": "Transaction expiration",
-  "nanoPayExpiration": "Nano pay expiration"
+  "nanoPayExpiration": "Nano Pay expiration"
 }

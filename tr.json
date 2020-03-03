@@ -133,9 +133,9 @@
   "generatingId": "Kimlik oluşturma",
   "donate": "Bağışlamak",
   "nknxVanity": "NKNx Vanity - create your own wallet address",
-  "nanopay": "Nano pay",
+  "nanopay": "Nano Pay",
   "sender": "Gönderen",
   "recipient": "Alıcı",
   "txnExpiration": "Transaction expiration",
-  "nanoPayExpiration": "Nano pay expiration"
+  "nanoPayExpiration": "Nano Pay expiration"
 }

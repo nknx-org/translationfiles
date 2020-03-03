@@ -133,9 +133,9 @@
   "generatingId": "产生ID",
   "donate": "捐",
   "nknxVanity": "NKNx Vanity - create your own wallet address",
-  "nanopay": "Nano pay",
+  "nanopay": "Nano Pay",
   "sender": "发件人",
   "recipient": "接受者",
   "txnExpiration": "Transaction expiration",
-  "nanoPayExpiration": "Nano pay expiration"
+  "nanoPayExpiration": "Nano Pay expiration"
 }
