@@ -137,5 +137,6 @@
   "sender": "发件人",
   "recipient": "接受者",
   "txnExpiration": "Transaction expiration",
-  "nanoPayExpiration": "Nano Pay expiration"
+  "nanoPayExpiration": "Nano Pay expiration",
+  "registeredNames" : "Registered names"
 }

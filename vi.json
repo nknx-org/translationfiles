@@ -137,5 +137,6 @@
   "sender": "Người gửi",
   "recipient": "Người nhận",
   "txnExpiration": "Transaction expiration",
-  "nanoPayExpiration": "Nano Pay expiration"
+  "nanoPayExpiration": "Nano Pay expiration",
+  "registeredNames" : "Registered names"
 }

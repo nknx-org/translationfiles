@@ -137,5 +137,6 @@
   "sender": "Remitente",
   "recipient": "Destinatario",
   "txnExpiration": "Transaction expiration",
-  "nanoPayExpiration": "Nano Pay expiration"
+  "nanoPayExpiration": "Nano Pay expiration",
+  "registeredNames" : "Registered names"
 }
