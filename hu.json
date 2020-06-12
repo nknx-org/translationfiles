@@ -138,5 +138,7 @@
     "recipient": "Befogadó",
     "txnExpiration": "Transaction expiration",
     "nanoPayExpiration": "Nano Pay expiration",
-    "registeredNames" : "Registered name(s)"
+    "registeredNames" : "Registered name(s)",
+    "welcomeToNscan": "Üdvözöljük az nScan.io - az NKN Mainnet Explorer hivatalos oldalán",
+    "nStatus": "nStatus - The in-depth node analyzer"
 }

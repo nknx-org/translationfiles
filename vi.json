@@ -138,5 +138,7 @@
   "recipient": "Người nhận",
   "txnExpiration": "Transaction expiration",
   "nanoPayExpiration": "Nano Pay expiration",
-  "registeredNames" : "Registered name(s)"
+  "registeredNames" : "Registered name(s)",
+  "welcomeToNscan": "Chào mừng bạn đến với nScan.io - Explorer chính thức của NKN",
+  "nStatus": "nStatus - The in-depth node analyzer"
 }

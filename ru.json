@@ -138,5 +138,7 @@
   "recipient": "Получатель",
   "txnExpiration": "Transaction expiration",
   "nanoPayExpiration": "Nano Pay expiration",
-  "registeredNames" : "Registered name(s)"
+  "registeredNames" : "Registered name(s)",
+  "welcomeToNscan": "Добро пожаловать на nScan.io - официальный NKN Mainnet Explorer",
+  "nStatus": "nStatus - The in-depth node analyzer"
 }
