@@ -140,5 +140,6 @@
     "nanoPayExpiration": "Nano Pay expiration",
     "registeredNames" : "Registered name(s)",
     "welcomeToNscan": "Welkom bij nScan.io - de officiële NKN Mainnet Explorer",
-    "nStatus": "nStatus - The in-depth node analyzer"
+    "nStatus": "nStatus - The in-depth node analyzer",
+    "copied": "Gekopieerd"
 }
